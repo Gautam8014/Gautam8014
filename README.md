@@ -33,5 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautam8014&show_icons=true&locale=en&theme=tokyonight" alt="Gautam8014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam8014&&theme=tokyonight" alt="Gautam8014" /></p>
- 
- <img align="center" alt="Coding" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50cd3144-a4f0-43a8-b464-78a1714e8628/dchoqoo-c9cb91ac-14cc-49da-9ac1-5786676e8893.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwY2QzMTQ0LWE0ZjAtNDNhOC1iNDY0LTc4YTE3MTRlODYyOFwvZGNob3Fvby1jOWNiOTFhYy0xNGNjLTQ5ZGEtOWFjMS01Nzg2Njc2ZTg4OTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nNAiX6RCm94AEDVNp0-2AOI8d2xo_8TmFxcIn1Kmt0M">
